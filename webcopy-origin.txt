@@ -1,0 +1,284 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\ajax\libs\fancybox\3.1.25\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-latest.min.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\jquery-latest.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Abril+Fatface:regular&display=swap
+File Name: C:\Downloaded Web Sites\ines\insalmeidaphotos.site.live\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Bebas+Neue:regular&display=swap
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Hind+Madurai:300,regular,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\ines\insalmeidaphotos.site.live\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato&display=swap
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:900&display=swap
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:800,800i&display=swap
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,700&display=swap
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans:400,400i&display=swap
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\css-4
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+File Name: C:\Downloaded Web Sites\ines\insalmeidaphotos.site.live\s\abrilfatface\v19\zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bebasneue/v10/JTUSjIg69CK48gW7PXoo9Wlhzg.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\s\bebasneue\v10\JTUSjIg69CK48gW7PXoo9Wlhzg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXfsEs.ttf
+File Name: C:\Downloaded Web Sites\ines\insalmeidaphotos.site.live\s\hindmadurai\v11\f0Xu0e2p98ZvDXdZQIOcpqjfBaQXfsEs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfKaMXfsEs.ttf
+File Name: C:\Downloaded Web Sites\ines\insalmeidaphotos.site.live\s\hindmadurai\v11\f0Xu0e2p98ZvDXdZQIOcpqjfKaMXfsEs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXfsEs.ttf
+File Name: C:\Downloaded Web Sites\ines\insalmeidaphotos.site.live\s\hindmadurai\v11\f0Xu0e2p98ZvDXdZQIOcpqjfTaIXfsEs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindmadurai/v11/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXfsEs.ttf
+File Name: C:\Downloaded Web Sites\ines\insalmeidaphotos.site.live\s\hindmadurai\v11\f0Xu0e2p98ZvDXdZQIOcpqjfXaUXfsEs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindmadurai/v11/f0Xx0e2p98ZvDXdZQIOcpqjX9ocH.ttf
+File Name: C:\Downloaded Web Sites\ines\insalmeidaphotos.site.live\s\hindmadurai\v11\f0Xx0e2p98ZvDXdZQIOcpqjX9ocH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\s\ptsans\v17\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizYRExUiTo99u79D0e0x8mN.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\s\ptsans\v17\jizYRExUiTo99u79D0e0x8mN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v18/BngRUXNadjH0qYEzV7ab-oWlsbCGwRg.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\s\ptsansnarrow\v18\BngRUXNadjH0qYEzV7ab-oWlsbCGwRg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v18/BngSUXNadjH0qYEzV7ab-oWlsbg95AiFW_g.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\s\ptsansnarrow\v18\BngSUXNadjH0qYEzV7ab-oWlsbg95AiFW_g.ttf
+Content Type: font/ttf
+
+Uri: https://heyleia.com/css/leia.css
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\css\leia.css
+Content Type: text/css
+
+Uri: https://heyleia.com/css/sweetalert.css
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\css\sweetalert.css
+Content Type: text/css
+
+Uri: https://heyleia.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\images\favicon.png
+Content Type: image/png
+
+Uri: https://heyleia.com/js/analytics.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\js\analytics.js
+Content Type: text/javascript
+
+Uri: https://heyleia.com/js/swal.min.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\js\swal.min.js
+Content Type: text/javascript
+
+Uri: https://insalmeidaphotos.site.live/?site=live
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\index.htm
+Content Type: text/html
+
+Uri: https://insalmeidaphotos.site.live/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://insalmeidaphotos.site.live/img/CCnvP-j7UR2-Ti9Af-Jbb1Q-l3Vun.jpeg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\CCnvP-j7UR2-Ti9Af-Jbb1Q-l3Vun.jpeg
+Content Type: image/jpeg
+
+Uri: https://insalmeidaphotos.site.live/img/iSrhR-bNihU-3M18V-TUg6G-3wSGe.jpeg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\iSrhR-bNihU-3M18V-TUg6G-3wSGe.jpeg
+Content Type: image/jpeg
+
+Uri: https://insalmeidaphotos.site.live/img/lZt5c-y5Y4W-yY5MM-Qganw-M3Twf.jpg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\lZt5c-y5Y4W-yY5MM-Qganw-M3Twf.jpg
+Content Type: image/jpeg
+
+Uri: https://insalmeidaphotos.site.live/img/NEEVp-GIcEp-F5evY-MwyBl-StHQw.jpeg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\NEEVp-GIcEp-F5evY-MwyBl-StHQw.jpeg
+Content Type: image/jpeg
+
+Uri: https://insalmeidaphotos.site.live/img/photography-b8t4g-juXkG-zbAtC-gSP09-JD7hh.mp4
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\photography-b8t4g-juXkG-zbAtC-gSP09-JD7hh.mp4
+Content Type: video/mp4
+
+Uri: https://insalmeidaphotos.site.live/img/photography-j7ppx-k9wWo-BsFSC-6TTc2-oswlK.jpg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\photography-j7ppx-k9wWo-BsFSC-6TTc2-oswlK.jpg
+Content Type: image/jpeg
+
+Uri: https://insalmeidaphotos.site.live/img/photography-R6I8F-iVLcz-xySxM-WQGhK-Fp87R.jpg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\photography-R6I8F-iVLcz-xySxM-WQGhK-Fp87R.jpg
+Content Type: image/jpeg
+
+Uri: https://insalmeidaphotos.site.live/img/photography-XzycB-qtwIw-kjMLZ-MHGra-wZps6.jpg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\photography-XzycB-qtwIw-kjMLZ-MHGra-wZps6.jpg
+Content Type: image/jpeg
+
+Uri: https://insalmeidaphotos.site.live/img/SpB1h-VdpZ9-MmDUT-StaRI-f9b1h.jpeg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\SpB1h-VdpZ9-MmDUT-StaRI-f9b1h.jpeg
+Content Type: image/jpeg
+
+Uri: https://insalmeidaphotos.site.live/img/TqgUX-pcIiG-KBZeM-lT9wu-ihHbq.jpeg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\img\TqgUX-pcIiG-KBZeM-lT9wu-ihHbq.jpeg
+Content Type: image/jpeg
+
+Uri: https://insalmeidaphotos.site.live/js/bankers.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\js\bankers.js
+Content Type: text/javascript
+
+Uri: https://insalmeidaphotos.site.live/js/menu.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\js\menu.js
+Content Type: text/javascript
+
+Uri: https://insalmeidaphotos.site.live/js/modernizer.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\js\modernizer.js
+Content Type: text/javascript
+
+Uri: https://insalmeidaphotos.site.live/lib/fancybox/blank.gif
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\lib\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://insalmeidaphotos.site.live/lib/fancybox/fancybox.png
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\lib\fancybox\fancybox.png
+Content Type: image/png
+
+Uri: https://insalmeidaphotos.site.live/lib/fancybox/jquery.easing-1.3.pack.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\lib\fancybox\jquery.easing-1.3.pack.js
+Content Type: text/javascript
+
+Uri: https://insalmeidaphotos.site.live/lib/fancybox/jquery.fancybox-1.3.4.css
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\lib\fancybox\jquery.fancybox-1.3.4.css
+Content Type: text/css
+
+Uri: https://insalmeidaphotos.site.live/lib/fancybox/jquery.fancybox-1.3.4.pack.js?v=1688612805
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\lib\fancybox\jquery.fancybox-1.3.4.pack.js
+Content Type: text/javascript
+
+Uri: https://insalmeidaphotos.site.live/lib/fancybox/jquery.mousewheel-3.0.4.pack.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\lib\fancybox\jquery.mousewheel-3.0.4.pack.js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\bootstrap\3.3.5\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/css/all.css
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.8/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\insalmeidaphotos.site.live\releases\v5.0.8\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
